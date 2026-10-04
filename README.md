@@ -1,3 +1,4 @@
+![siam205's Stats](https://github-readme-stats.vercel.app/api?username=siam205&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=siam205&theme=tokyonight)
 
 <!--## Hi there 👋
