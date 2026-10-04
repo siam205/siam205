@@ -1,6 +1,7 @@
-## Hi there 👋
+![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=siam205&theme=github)
 
-<!--
+<!--## Hi there 👋
+
 **siam205/siam205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
