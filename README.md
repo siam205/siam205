@@ -1,4 +1,4 @@
-![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=siam205&theme=github)
+![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=siam205&theme=tokyonight)
 
 <!--## Hi there 👋
 
